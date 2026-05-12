@@ -1,0 +1,31 @@
+.env
+venv/
+__pycache__/
+
+.env/
+.gitignore/
+
+
+
+cd /path/to/PROJECT
+echo "node_modules/" >> .gitignore
+echo "node setup/node_modules/" >> .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

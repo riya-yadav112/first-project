@@ -32,3 +32,4 @@ def analyze_resume(resume_text, job_description):
         return response.text
     except Exception as e:
         return f"Error during analysis: {str(e)}"
+    
